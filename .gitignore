@@ -1,0 +1,23 @@
+.DS_Store
+
+# Swift
+.build/
+DerivedData/
+xcuserdata/
+*.xcodeproj
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Datasets and training artifacts are never committed (ADR 0007).
+# The only model artifact that belongs in git is the final Core ML
+# export copied into app/ as a TracingCore resource.
+ml/data/*
+!ml/data/README.md
+ml/models/*
+!ml/models/README.md
+*.pt
+runs/
