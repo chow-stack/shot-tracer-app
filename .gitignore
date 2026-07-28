@@ -12,12 +12,15 @@ __pycache__/
 *.pyc
 *.egg-info/
 
+# Secrets
+.env
+
 # Datasets and training artifacts are never committed (ADR 0007).
 # The only model artifact that belongs in git is the final Core ML
 # export copied into app/ as a TracingCore resource.
 ml/data/*
-!ml/data/README.md
+!ml/data/.gitkeep
 ml/models/*
-!ml/models/README.md
+!ml/models/.gitkeep
 *.pt
 runs/
