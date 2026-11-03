@@ -1,0 +1,37 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# downloaded dataset / trained weights / generated output — large binaries, not source
+ml/data/
+ml/models/
+ml/output/
+ml/videos/
+ml/cache/
+
+# personal recordings (may contain location metadata) and local ML caches
+ml/ios-vids/
+*.MOV
+*.mov
+
+# Swift / Xcode build products and user state
+.build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.swiftpm/
+
+# local tooling
+.claude/
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+*.mobileprovision
+.sourcePackages/
+
+# third-party paper text (link to arXiv instead of redistributing)
+paper.md

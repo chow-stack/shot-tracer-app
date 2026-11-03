@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "fixture_family": "offline_ios_numerical_parity",
+  "reference_implementation": "python_frozen_stable_camera_pipeline",
+  "comparison": {
+    "frame_index": "exact",
+    "provenance": "exact",
+    "source_labels": "exact",
+    "timestamp_tolerance_seconds": 1e-09,
+    "coordinate_tolerance_pixels": 1e-06,
+    "uncertainty_tolerance_pixels": 1e-06,
+    "candidate_confidence_tolerance": 1e-12
+  },
+  "cases": [
+    {
+      "id": "top_iron_motion_candidates",
+      "artifact": "output/top-iron.annotation-free.motion-candidates.json",
+      "digest_keys": ["candidates"],
+      "canonical_sha256": "bbb012fd8825bf52835924aa5b183613ed14b569c5385c8b4651d757e3750dde",
+      "expected_counts": {"candidates": 29091}
+    },
+    {
+      "id": "top_iron_associated_track",
+      "artifact": "output/top-iron.annotation-free.track.json",
+      "digest_keys": ["trajectory"],
+      "canonical_sha256": "721e745d3dd3788ef8a8e40d41d85eed29f4f7bda021dc3a16b1b7d20f0ba0f2",
+      "expected_counts": {"trajectory": 95},
+      "expected_frames": {"launch": 141, "termination": 235}
+    },
+    {
+      "id": "left_3wood_physics_template",
+      "artifact": "output/left-3wood.physics-template.track.json",
+      "digest_keys": ["trajectory", "continuation"],
+      "canonical_sha256": "91d9e9d6b5a00c6679d93456c8138e717483a91853f84625634cc9c95db19755",
+      "expected_counts": {"trajectory": 160},
+      "expected_frames": {"observation_end": 158}
+    },
+    {
+      "id": "curve_3wood_physics_template",
+      "artifact": "output/curve-3wood.physics-template.track.json",
+      "digest_keys": ["trajectory", "continuation"],
+      "canonical_sha256": "224b94aec1734ad0e86517ce2afdd3b92b0a7150f8d36895f0ddefbafaf88800",
+      "expected_counts": {"trajectory": 176},
+      "expected_frames": {"observation_end": 117}
+    },
+    {
+      "id": "straight_wedge_physics_template",
+      "artifact": "output/straight-wedge.physics-template.track.json",
+      "digest_keys": ["trajectory", "continuation"],
+      "canonical_sha256": "69b6356fd4dc0c33c7fbc3e2abcb61ccd658b60d55bd034703c0f9a10d370204",
+      "expected_counts": {"trajectory": 211},
+      "expected_frames": {"observation_end": 305}
+    }
+  ]
+}

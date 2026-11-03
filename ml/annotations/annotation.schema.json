@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://shot-tracer.local/schemas/annotation-v1.json",
+  "title": "Shot Tracer Dense Video Annotation",
+  "type": "object",
+  "required": ["schema_version", "video", "frames"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "video": {
+      "type": "object",
+      "required": ["path", "sha256", "width", "height", "fps", "frame_count"],
+      "properties": {
+        "path": { "type": "string" },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "width": { "type": "integer", "minimum": 1 },
+        "height": { "type": "integer", "minimum": 1 },
+        "fps": { "type": "number", "exclusiveMinimum": 0 },
+        "frame_count": { "type": "integer", "minimum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "frames": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "frame_index",
+          "timestamp_seconds",
+          "visibility",
+          "shot_state",
+          "uncertain"
+        ],
+        "properties": {
+          "frame_index": { "type": "integer", "minimum": 0 },
+          "timestamp_seconds": { "type": "number", "minimum": 0 },
+          "x": { "type": ["number", "null"] },
+          "y": { "type": ["number", "null"] },
+          "visibility": {
+            "enum": [
+              "unlabeled",
+              "visible",
+              "blurred",
+              "occluded",
+              "not_visible",
+              "out_of_frame"
+            ]
+          },
+          "shot_state": {
+            "enum": ["unknown", "address", "flight", "landed", "finished"]
+          },
+          "uncertain": { "type": "boolean" },
+          "blur": {
+            "type": ["object", "null"],
+            "required": ["orientation_degrees", "length_pixels"],
+            "properties": {
+              "orientation_degrees": { "type": "number" },
+              "length_pixels": { "type": "number", "minimum": 0 }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,2953 @@
+{
+  "schema_version": 1,
+  "video": {
+    "path": "top-iron.MOV",
+    "sha256": "8c1cb34a34e0cf67b06d8ec3fbf1caa179c6166bfd4901b3abf8679c58ebf409",
+    "width": 1080,
+    "height": 1920,
+    "fps": 55.29953917050691,
+    "frame_count": 294
+  },
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp_seconds": 0.0,
+      "x": 610.1333333333333,
+      "y": 1676.8,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 1,
+      "timestamp_seconds": 0.016667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 2,
+      "timestamp_seconds": 0.033333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 3,
+      "timestamp_seconds": 0.05,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 4,
+      "timestamp_seconds": 0.066667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 5,
+      "timestamp_seconds": 0.083333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 6,
+      "timestamp_seconds": 0.1,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 7,
+      "timestamp_seconds": 0.116667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 8,
+      "timestamp_seconds": 0.133333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 9,
+      "timestamp_seconds": 0.15,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 10,
+      "timestamp_seconds": 0.166667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 11,
+      "timestamp_seconds": 0.183333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 12,
+      "timestamp_seconds": 0.2,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 13,
+      "timestamp_seconds": 0.216667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 14,
+      "timestamp_seconds": 0.233333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 15,
+      "timestamp_seconds": 0.25,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 16,
+      "timestamp_seconds": 0.266667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 17,
+      "timestamp_seconds": 0.283333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 18,
+      "timestamp_seconds": 0.3,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 19,
+      "timestamp_seconds": 0.316667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 20,
+      "timestamp_seconds": 0.333333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 21,
+      "timestamp_seconds": 0.35,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 22,
+      "timestamp_seconds": 0.366667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 23,
+      "timestamp_seconds": 0.383333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 24,
+      "timestamp_seconds": 0.4,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 25,
+      "timestamp_seconds": 0.416667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 26,
+      "timestamp_seconds": 0.433333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 27,
+      "timestamp_seconds": 0.45,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 28,
+      "timestamp_seconds": 0.466667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 29,
+      "timestamp_seconds": 0.483333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 30,
+      "timestamp_seconds": 0.5,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 31,
+      "timestamp_seconds": 0.516667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 32,
+      "timestamp_seconds": 0.533333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 33,
+      "timestamp_seconds": 0.55,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 34,
+      "timestamp_seconds": 0.566667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 35,
+      "timestamp_seconds": 0.583333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 36,
+      "timestamp_seconds": 0.6,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 37,
+      "timestamp_seconds": 0.616667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 38,
+      "timestamp_seconds": 0.633333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 39,
+      "timestamp_seconds": 0.65,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 40,
+      "timestamp_seconds": 0.666667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 41,
+      "timestamp_seconds": 0.683333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 42,
+      "timestamp_seconds": 0.7,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 43,
+      "timestamp_seconds": 0.716667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 44,
+      "timestamp_seconds": 0.733333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 45,
+      "timestamp_seconds": 0.75,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 46,
+      "timestamp_seconds": 0.766667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 47,
+      "timestamp_seconds": 0.783333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 48,
+      "timestamp_seconds": 0.8,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 49,
+      "timestamp_seconds": 0.816667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 50,
+      "timestamp_seconds": 0.833333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 51,
+      "timestamp_seconds": 0.851667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 52,
+      "timestamp_seconds": 0.866667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 53,
+      "timestamp_seconds": 0.885,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 54,
+      "timestamp_seconds": 0.901667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 55,
+      "timestamp_seconds": 0.918333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 56,
+      "timestamp_seconds": 0.935,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 57,
+      "timestamp_seconds": 0.951667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 58,
+      "timestamp_seconds": 0.968333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 59,
+      "timestamp_seconds": 0.985,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 60,
+      "timestamp_seconds": 1.001667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 61,
+      "timestamp_seconds": 1.018333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 62,
+      "timestamp_seconds": 1.035,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 63,
+      "timestamp_seconds": 1.051667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 64,
+      "timestamp_seconds": 1.068333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 65,
+      "timestamp_seconds": 1.085,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 66,
+      "timestamp_seconds": 1.101667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 67,
+      "timestamp_seconds": 1.118333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 68,
+      "timestamp_seconds": 1.135,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 69,
+      "timestamp_seconds": 1.151667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 70,
+      "timestamp_seconds": 1.168333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 71,
+      "timestamp_seconds": 1.185,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 72,
+      "timestamp_seconds": 1.201667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 73,
+      "timestamp_seconds": 1.218333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 74,
+      "timestamp_seconds": 1.235,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 75,
+      "timestamp_seconds": 1.251667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 76,
+      "timestamp_seconds": 1.268333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 77,
+      "timestamp_seconds": 1.285,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 78,
+      "timestamp_seconds": 1.301667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 79,
+      "timestamp_seconds": 1.318333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 80,
+      "timestamp_seconds": 1.335,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 81,
+      "timestamp_seconds": 1.351667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 82,
+      "timestamp_seconds": 1.368333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 83,
+      "timestamp_seconds": 1.385,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 84,
+      "timestamp_seconds": 1.401667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 85,
+      "timestamp_seconds": 1.418333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 86,
+      "timestamp_seconds": 1.435,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 87,
+      "timestamp_seconds": 1.451667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 88,
+      "timestamp_seconds": 1.468333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 89,
+      "timestamp_seconds": 1.485,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 90,
+      "timestamp_seconds": 1.501667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 91,
+      "timestamp_seconds": 1.518333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 92,
+      "timestamp_seconds": 1.535,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 93,
+      "timestamp_seconds": 1.551667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 94,
+      "timestamp_seconds": 1.568333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 95,
+      "timestamp_seconds": 1.585,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 96,
+      "timestamp_seconds": 1.601667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 97,
+      "timestamp_seconds": 1.618333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 98,
+      "timestamp_seconds": 1.635,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 99,
+      "timestamp_seconds": 1.651667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 100,
+      "timestamp_seconds": 1.668333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 101,
+      "timestamp_seconds": 1.685,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 102,
+      "timestamp_seconds": 1.701667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 103,
+      "timestamp_seconds": 1.718333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 104,
+      "timestamp_seconds": 1.735,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 105,
+      "timestamp_seconds": 1.751667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 106,
+      "timestamp_seconds": 1.768333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 107,
+      "timestamp_seconds": 1.785,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 108,
+      "timestamp_seconds": 1.801667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 109,
+      "timestamp_seconds": 1.818333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 110,
+      "timestamp_seconds": 1.835,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 111,
+      "timestamp_seconds": 1.851667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 112,
+      "timestamp_seconds": 1.868333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 113,
+      "timestamp_seconds": 1.885,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 114,
+      "timestamp_seconds": 1.901667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 115,
+      "timestamp_seconds": 1.918333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 116,
+      "timestamp_seconds": 1.935,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 117,
+      "timestamp_seconds": 1.951667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 118,
+      "timestamp_seconds": 1.968333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 119,
+      "timestamp_seconds": 1.985,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 120,
+      "timestamp_seconds": 2.001667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 121,
+      "timestamp_seconds": 2.018333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 122,
+      "timestamp_seconds": 2.035,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 123,
+      "timestamp_seconds": 2.051667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 124,
+      "timestamp_seconds": 2.068333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 125,
+      "timestamp_seconds": 2.085,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 126,
+      "timestamp_seconds": 2.101667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 127,
+      "timestamp_seconds": 2.118333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 128,
+      "timestamp_seconds": 2.135,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 129,
+      "timestamp_seconds": 2.151667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 130,
+      "timestamp_seconds": 2.168333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 131,
+      "timestamp_seconds": 2.185,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 132,
+      "timestamp_seconds": 2.201667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 133,
+      "timestamp_seconds": 2.218333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 134,
+      "timestamp_seconds": 2.235,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 135,
+      "timestamp_seconds": 2.251667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 136,
+      "timestamp_seconds": 2.268333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 137,
+      "timestamp_seconds": 2.285,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 138,
+      "timestamp_seconds": 2.301667,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 139,
+      "timestamp_seconds": 2.318333,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 140,
+      "timestamp_seconds": 2.335,
+      "x": 610.1333333333333,
+      "y": 1674.6666666666667,
+      "visibility": "visible",
+      "shot_state": "address",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 141,
+      "timestamp_seconds": 2.351667,
+      "x": 608.0,
+      "y": 1651.2,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 142,
+      "timestamp_seconds": 2.368333,
+      "x": 590.9333333333333,
+      "y": 1523.2,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 143,
+      "timestamp_seconds": 2.385,
+      "x": 582.4,
+      "y": 1435.7333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 144,
+      "timestamp_seconds": 2.401667,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 145,
+      "timestamp_seconds": 2.418333,
+      "x": 569.6,
+      "y": 1318.4,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 146,
+      "timestamp_seconds": 2.435,
+      "x": 563.2,
+      "y": 1280.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 147,
+      "timestamp_seconds": 2.451667,
+      "x": 558.9333333333333,
+      "y": 1248.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 148,
+      "timestamp_seconds": 2.468333,
+      "x": 554.6666666666666,
+      "y": 1222.4,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 149,
+      "timestamp_seconds": 2.485,
+      "x": 550.4,
+      "y": 1205.3333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 150,
+      "timestamp_seconds": 2.501667,
+      "x": 548.2666666666667,
+      "y": 1188.2666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 151,
+      "timestamp_seconds": 2.518333,
+      "x": 546.1333333333333,
+      "y": 1173.3333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 152,
+      "timestamp_seconds": 2.535,
+      "x": 544.0,
+      "y": 1160.5333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 153,
+      "timestamp_seconds": 2.551667,
+      "x": 539.7333333333333,
+      "y": 1149.8666666666666,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 154,
+      "timestamp_seconds": 2.568333,
+      "x": 539.7333333333333,
+      "y": 1141.3333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 155,
+      "timestamp_seconds": 2.585,
+      "x": 539.7333333333333,
+      "y": 1132.8,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 156,
+      "timestamp_seconds": 2.601667,
+      "x": 535.4666666666667,
+      "y": 1128.5333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 157,
+      "timestamp_seconds": 2.618333,
+      "x": 533.3333333333334,
+      "y": 1122.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 158,
+      "timestamp_seconds": 2.635,
+      "x": 531.2,
+      "y": 1115.7333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 159,
+      "timestamp_seconds": 2.651667,
+      "x": 529.0666666666667,
+      "y": 1109.3333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 160,
+      "timestamp_seconds": 2.668333,
+      "x": 526.9333333333333,
+      "y": 1107.2,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 161,
+      "timestamp_seconds": 2.685,
+      "x": 526.9333333333333,
+      "y": 1100.8,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 162,
+      "timestamp_seconds": 2.701667,
+      "x": 524.8,
+      "y": 1098.6666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 163,
+      "timestamp_seconds": 2.718333,
+      "x": 520.5333333333333,
+      "y": 1096.5333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 164,
+      "timestamp_seconds": 2.735,
+      "x": 520.5333333333333,
+      "y": 1094.4,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 165,
+      "timestamp_seconds": 2.751667,
+      "x": 518.4,
+      "y": 1090.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 166,
+      "timestamp_seconds": 2.768333,
+      "x": 518.4,
+      "y": 1094.4,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 167,
+      "timestamp_seconds": 2.785,
+      "x": 516.2666666666667,
+      "y": 1090.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 168,
+      "timestamp_seconds": 2.801667,
+      "x": 514.1333333333333,
+      "y": 1088.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 169,
+      "timestamp_seconds": 2.818333,
+      "x": 512.0,
+      "y": 1090.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 170,
+      "timestamp_seconds": 2.835,
+      "x": 512.0,
+      "y": 1094.4,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 171,
+      "timestamp_seconds": 2.851667,
+      "x": 512.0,
+      "y": 1090.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 172,
+      "timestamp_seconds": 2.868333,
+      "x": 509.8666666666667,
+      "y": 1088.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 173,
+      "timestamp_seconds": 2.885,
+      "x": 507.73333333333335,
+      "y": 1088.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 174,
+      "timestamp_seconds": 2.901667,
+      "x": 505.6,
+      "y": 1090.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 175,
+      "timestamp_seconds": 2.918333,
+      "x": 505.6,
+      "y": 1088.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 176,
+      "timestamp_seconds": 2.935,
+      "x": 503.46666666666664,
+      "y": 1090.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 177,
+      "timestamp_seconds": 2.951667,
+      "x": 501.3333333333333,
+      "y": 1090.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 178,
+      "timestamp_seconds": 2.968333,
+      "x": 501.3333333333333,
+      "y": 1088.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 179,
+      "timestamp_seconds": 2.985,
+      "x": 501.3333333333333,
+      "y": 1092.2666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 180,
+      "timestamp_seconds": 3.001667,
+      "x": 497.06666666666666,
+      "y": 1092.2666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 181,
+      "timestamp_seconds": 3.018333,
+      "x": 497.06666666666666,
+      "y": 1092.2666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 182,
+      "timestamp_seconds": 3.035,
+      "x": 494.93333333333334,
+      "y": 1094.4,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 183,
+      "timestamp_seconds": 3.051667,
+      "x": 494.93333333333334,
+      "y": 1096.5333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 184,
+      "timestamp_seconds": 3.068333,
+      "x": 494.93333333333334,
+      "y": 1098.6666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 185,
+      "timestamp_seconds": 3.085,
+      "x": 490.6666666666667,
+      "y": 1096.5333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 186,
+      "timestamp_seconds": 3.101667,
+      "x": 488.53333333333336,
+      "y": 1100.8,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 187,
+      "timestamp_seconds": 3.118333,
+      "x": 490.6666666666667,
+      "y": 1100.8,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 188,
+      "timestamp_seconds": 3.135,
+      "x": 486.4,
+      "y": 1100.8,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 189,
+      "timestamp_seconds": 3.151667,
+      "x": 487.0,
+      "y": 1100.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 190,
+      "timestamp_seconds": 3.168333,
+      "x": 484.26666666666665,
+      "y": 1100.8,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 191,
+      "timestamp_seconds": 3.185,
+      "x": 484.0,
+      "y": 1102.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 192,
+      "timestamp_seconds": 3.201667,
+      "x": 483.0,
+      "y": 1104.0,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 193,
+      "timestamp_seconds": 3.218333,
+      "x": 481.0,
+      "y": 1105.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 194,
+      "timestamp_seconds": 3.235,
+      "x": 480.0,
+      "y": 1107.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 195,
+      "timestamp_seconds": 3.251667,
+      "x": 479.0,
+      "y": 1108.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 196,
+      "timestamp_seconds": 3.268333,
+      "x": 477.0,
+      "y": 1109.0,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 197,
+      "timestamp_seconds": 3.285,
+      "x": 477.0,
+      "y": 1112.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 198,
+      "timestamp_seconds": 3.301667,
+      "x": 475.73333333333335,
+      "y": 1115.7333333333333,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 199,
+      "timestamp_seconds": 3.318333,
+      "x": 473.6,
+      "y": 1117.8666666666666,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 200,
+      "timestamp_seconds": 3.335,
+      "x": 473.6,
+      "y": 1122.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 201,
+      "timestamp_seconds": 3.351667,
+      "x": 471.46666666666664,
+      "y": 1122.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 202,
+      "timestamp_seconds": 3.368333,
+      "x": 471.46666666666664,
+      "y": 1126.4,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 203,
+      "timestamp_seconds": 3.385,
+      "x": 469.3333333333333,
+      "y": 1128.5333333333333,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 204,
+      "timestamp_seconds": 3.401667,
+      "x": 467.2,
+      "y": 1128.5333333333333,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 205,
+      "timestamp_seconds": 3.418333,
+      "x": 467.0,
+      "y": 1127.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 206,
+      "timestamp_seconds": 3.435,
+      "x": 466.0,
+      "y": 1130.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 207,
+      "timestamp_seconds": 3.451667,
+      "x": 464.0,
+      "y": 1132.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 208,
+      "timestamp_seconds": 3.468333,
+      "x": 462.93333333333334,
+      "y": 1137.0666666666666,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 209,
+      "timestamp_seconds": 3.485,
+      "x": 462.93333333333334,
+      "y": 1139.2,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 210,
+      "timestamp_seconds": 3.501667,
+      "x": 460.0,
+      "y": 1138.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 211,
+      "timestamp_seconds": 3.518333,
+      "x": 459.0,
+      "y": 1139.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 212,
+      "timestamp_seconds": 3.535,
+      "x": 458.6666666666667,
+      "y": 1147.7333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 213,
+      "timestamp_seconds": 3.551667,
+      "x": 456.53333333333336,
+      "y": 1147.7333333333333,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 214,
+      "timestamp_seconds": 3.568333,
+      "x": 456.53333333333336,
+      "y": 1152.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 215,
+      "timestamp_seconds": 3.585,
+      "x": 456.53333333333336,
+      "y": 1152.0,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 216,
+      "timestamp_seconds": 3.601667,
+      "x": 454.4,
+      "y": 1154.1333333333334,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 217,
+      "timestamp_seconds": 3.618333,
+      "x": 452.26666666666665,
+      "y": 1156.2666666666667,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 218,
+      "timestamp_seconds": 3.635,
+      "x": 452.26666666666665,
+      "y": 1158.4,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 219,
+      "timestamp_seconds": 3.651667,
+      "x": 448.0,
+      "y": 1162.6666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 220,
+      "timestamp_seconds": 3.668333,
+      "x": 450.1333333333333,
+      "y": 1162.6666666666667,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 221,
+      "timestamp_seconds": 3.685,
+      "x": 447.0,
+      "y": 1163.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 222,
+      "timestamp_seconds": 3.701667,
+      "x": 446.0,
+      "y": 1165.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 223,
+      "timestamp_seconds": 3.718333,
+      "x": 445.8666666666667,
+      "y": 1171.2,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 224,
+      "timestamp_seconds": 3.735,
+      "x": 445.8666666666667,
+      "y": 1175.4666666666667,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 225,
+      "timestamp_seconds": 3.751667,
+      "x": 441.6,
+      "y": 1175.4666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 226,
+      "timestamp_seconds": 3.768333,
+      "x": 441.6,
+      "y": 1179.7333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 227,
+      "timestamp_seconds": 3.785,
+      "x": 441.6,
+      "y": 1184.0,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 228,
+      "timestamp_seconds": 3.801667,
+      "x": 437.3333333333333,
+      "y": 1181.8666666666666,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 229,
+      "timestamp_seconds": 3.818333,
+      "x": 437.3333333333333,
+      "y": 1179.7333333333333,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 230,
+      "timestamp_seconds": 3.835,
+      "x": 435.2,
+      "y": 1188.2666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 231,
+      "timestamp_seconds": 3.851667,
+      "x": 435.2,
+      "y": 1194.6666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 232,
+      "timestamp_seconds": 3.868333,
+      "x": 435.2,
+      "y": 1196.8,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 233,
+      "timestamp_seconds": 3.885,
+      "x": 430.93333333333334,
+      "y": 1194.6666666666667,
+      "visibility": "visible",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 234,
+      "timestamp_seconds": 3.901667,
+      "x": 432.0,
+      "y": 1195.0,
+      "visibility": "blurred",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 235,
+      "timestamp_seconds": 3.918333,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 236,
+      "timestamp_seconds": 3.935,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 237,
+      "timestamp_seconds": 3.951667,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 238,
+      "timestamp_seconds": 3.968333,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 239,
+      "timestamp_seconds": 3.985,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 240,
+      "timestamp_seconds": 4.001667,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 241,
+      "timestamp_seconds": 4.018333,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 242,
+      "timestamp_seconds": 4.035,
+      "x": null,
+      "y": null,
+      "visibility": "occluded",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 243,
+      "timestamp_seconds": 4.051667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 244,
+      "timestamp_seconds": 4.068333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 245,
+      "timestamp_seconds": 4.085,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 246,
+      "timestamp_seconds": 4.101667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 247,
+      "timestamp_seconds": 4.118333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 248,
+      "timestamp_seconds": 4.135,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 249,
+      "timestamp_seconds": 4.151667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 250,
+      "timestamp_seconds": 4.168333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 251,
+      "timestamp_seconds": 4.185,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 252,
+      "timestamp_seconds": 4.201667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 253,
+      "timestamp_seconds": 4.218333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 254,
+      "timestamp_seconds": 4.235,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 255,
+      "timestamp_seconds": 4.251667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 256,
+      "timestamp_seconds": 4.268333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 257,
+      "timestamp_seconds": 4.285,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 258,
+      "timestamp_seconds": 4.301667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 259,
+      "timestamp_seconds": 4.318333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 260,
+      "timestamp_seconds": 4.335,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 261,
+      "timestamp_seconds": 4.351667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 262,
+      "timestamp_seconds": 4.368333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 263,
+      "timestamp_seconds": 4.386667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 264,
+      "timestamp_seconds": 4.403333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 265,
+      "timestamp_seconds": 4.42,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 266,
+      "timestamp_seconds": 4.436667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 267,
+      "timestamp_seconds": 4.453333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 268,
+      "timestamp_seconds": 4.47,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 269,
+      "timestamp_seconds": 4.486667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 270,
+      "timestamp_seconds": 4.503333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 271,
+      "timestamp_seconds": 4.52,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 272,
+      "timestamp_seconds": 4.536667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 273,
+      "timestamp_seconds": 4.553333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 274,
+      "timestamp_seconds": 4.57,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "flight",
+      "uncertain": true,
+      "blur": null
+    },
+    {
+      "frame_index": 275,
+      "timestamp_seconds": 4.586667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 276,
+      "timestamp_seconds": 4.603333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 277,
+      "timestamp_seconds": 4.62,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 278,
+      "timestamp_seconds": 4.636667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 279,
+      "timestamp_seconds": 4.653333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 280,
+      "timestamp_seconds": 4.67,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 281,
+      "timestamp_seconds": 4.686667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 282,
+      "timestamp_seconds": 4.703333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 283,
+      "timestamp_seconds": 4.72,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 284,
+      "timestamp_seconds": 4.736667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 285,
+      "timestamp_seconds": 4.753333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 286,
+      "timestamp_seconds": 4.77,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 287,
+      "timestamp_seconds": 4.786667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 288,
+      "timestamp_seconds": 4.803333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 289,
+      "timestamp_seconds": 4.82,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 290,
+      "timestamp_seconds": 4.836667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 291,
+      "timestamp_seconds": 4.853333,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 292,
+      "timestamp_seconds": 4.87,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    },
+    {
+      "frame_index": 293,
+      "timestamp_seconds": 4.886667,
+      "x": null,
+      "y": null,
+      "visibility": "not_visible",
+      "shot_state": "finished",
+      "uncertain": false,
+      "blur": null
+    }
+  ]
+}
